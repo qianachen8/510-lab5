@@ -21,8 +21,14 @@ folium
 streamlit
 ```
 
-## Lessions Learned
--- 
+## Lessons Learned
+-- Ingest the data into PostgreSQL
+
+-- Schedule the web scraper script using GitHub actions
+
+-- Insert the data into Azure Postgres
 
 ## Questions
--- Why when output the csv data, it will crash during scrap the data and need to re-run the code?
+-- having trouble with the configuration
+
+-- having trouble with the "zipfile" bug
