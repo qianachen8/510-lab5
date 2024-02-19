@@ -4,7 +4,6 @@ import pandas.io.sql as sqlio
 import altair as alt
 import folium
 from streamlit_folium import st_folium
-import plotly.express as px
 
 from db import conn_str
 
